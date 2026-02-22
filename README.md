@@ -1,4 +1,5 @@
 # digit-ml-drawer
+<img width="1112" height="760" alt="image" src="https://github.com/user-attachments/assets/9ef74073-79fa-422b-b8d2-22484c986d1e" />
 
 마우스로 쓴 숫자(0~9)를 실시간으로 인식하고, 각 숫자에 대한 유사율(확률) 막대 그래프를 보여주는 파이썬 데스크톱 앱입니다.
 
